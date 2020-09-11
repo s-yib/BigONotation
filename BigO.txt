@@ -29,3 +29,5 @@ You only need to loop one more time every time the value doubles for binary sear
 
 2) O(n^2)
 Worst-case scenario for bubble sort is (n*n+1)/2, and n^2 is the largest, so it's the Big O.
+
+ok
