@@ -1,0 +1,31 @@
+Estimating g(x) given f(x)
+
+1) O(n)
+
+2) O(n^2)
+
+3) O(n^5)
+
+4) O(n^3)
+
+5) O((n^2)*log(n))
+
+6) O(n log(n))
+
+Counting Operations to Produce Polynomials
+
+1) O(1)
+
+2) O(n^2)
+
+3) O(n^2)
+
+4) O(n)
+
+More Advanced Practice
+
+1) O(log(n))
+You only need to loop one more time every time the value doubles for binary search in a worst-case scenario, so a log base 2 would make sense as the Big O.
+
+2) O(n^2)
+Worst-case scenario for bubble sort is (n*n+1)/2, and n^2 is the largest, so it's the Big O.
